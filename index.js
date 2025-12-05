@@ -3,65 +3,65 @@
 65°F, 22°C, 77°F, 26°C, 78°F, 24°C, 73°F, 21°C, 79°F, 27°C, 71°F, 19°C, 74°F, 17°C, 76°F, 29°C
 */
 
-const day1TempF = 32
+const day1TempF = 32;
 
-const day2TempC = 25
+const day2TempC = 25;
 
-const day3TempF = 70
+const day3TempF = 70;
 
-const day4TempC = 18
+const day4TempC = 18;
 
-const day5TempF = 80
+const day5TempF = 80;
 
-const day6TempC = 15
+const day6TempC = 15;
 
-const day7TempF = 72
+const day7TempF = 72;
 
-const day8TempC = 28
+const day8TempC = 28;
 
-const day9TempF = 68
+const day9TempF = 68;
 
-const day10TempC = 20
+const day10TempC = 20;
 
-const day11TempF = 75
+const day11TempF = 75;
 
-const day12TempC = 23
+const day12TempC = 23;
 
-const day13TempF = 82
+const day13TempF = 82;
 
-const day14TempC = 30
+const day14TempC = 30;
 
-const day15TempF = 65 
+const day15TempF = 65;
 
-const day16TempC = 22
+const day16TempC = 22;
 
-const day17TempF = 77
+const day17TempF = 77;
 
-const day18TempC = 26
+const day18TempC = 26;
 
-const day19TempF = 78
+const day19TempF = 78;
 
-const day20TempC = 24
+const day20TempC = 24;
 
-const day21TempF = 73
+const day21TempF = 73;
 
-const day22TempC = 21
+const day22TempC = 21;
 
-const day23TempF = 79
+const day23TempF = 79;
 
-const day24TempC = 27
+const day24TempC = 27;
 
-const day25TempF = 71
+const day25TempF = 71;
 
-const day26TempC = 19
+const day26TempC = 19;
 
-const day27TempF = 74
+const day27TempF = 74;
 
-const day28TempC = 17
+const day28TempC = 17;
 
-const day29TempF = 76
+const day29TempF = 76;
 
-const day30TempC = 29
+const day30TempC = 29;
 
 
 //* Then work on the conversion of the temperature from Celsius to Fahrenheit (or viceversa)
